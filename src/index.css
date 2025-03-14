@@ -1,5 +1,6 @@
 @import "tailwindcss";
 
+
 body{
     display: flex;
     justify-content: center;

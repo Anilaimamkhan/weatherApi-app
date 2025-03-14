@@ -233,6 +233,7 @@
 // WEATHER APP
 import React from 'react'
 import Weather from './component/weather Api/Weather'
+import "./index.css"
 
 const App = () => {
   return (
